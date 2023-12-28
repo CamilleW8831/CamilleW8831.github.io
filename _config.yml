@@ -1,21 +1,21 @@
 # Basic Information 
-title: Frederick "Forrest" Miller
-position: PhD Student
-affiliation: Northeastern University
-email: miller.f (at) northeastern.edu
+title: Camille Williams
+position: Undergraduate Student
+affiliation: Worcester Polytechnic Institute
+email: cewilliams@WPI.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: forrest frederick miller northeastern math optimization academic
-description: Frederick Forrest Miller personal homepage.
-canonical: https://fimiller.github.io/
+keywords: Camille Williams Physics Plasma Microwave WPI
+description: Camille Williams personal homepage.
+canonical: https://camillew8831.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=ate37H0AAAAJ&hl=en&oi=ao
-github_link: https://github.com/fimiller
-linkedin: https://www.linkedin.com/in/frederick-miller-769b4917a/
-cv: ./assets/cv.pdf
+google_scholar: 
+github_link: 
+linkedin: www.linkedin.com/in/camille-williams8831
+cv: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
