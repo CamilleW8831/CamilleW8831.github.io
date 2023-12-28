@@ -11,8 +11,8 @@ Bachelor of Science in Physics-- Worcester Polytechnic Institute
 Bachelor of Science in Mathematical Sciences
 
 ## Research & Projects
-- **Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications*
-    -hfei
+- **Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications**
+    -test
 
 
 ## Skills
