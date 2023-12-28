@@ -12,7 +12,7 @@ Bachelor of Science in Mathematical Sciences
 
 ## Research & Projects
 - **Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications**
-    -test
+    - test
 
 
 ## Skills
