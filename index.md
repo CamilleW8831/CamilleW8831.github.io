@@ -7,9 +7,12 @@ layout: homepage
 
 
 ## Education
+Bachelor of Science in Physics-- Worcester Polytechnic Institute 
+Bachelor of Science in Mathematical Sciences
 
-
-## Research Interests
+## Research & Projects
+- **Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications*
+    -hfei
 
 
 ## Skills
