@@ -2,10 +2,10 @@
 layout: homepage
 ---
 
-## Page in progress: iteration 1
+## Page in progress: iteration 8
 
 ## About Me
-Hello! I use this page primarily to post updates on the projects I am working on in greater detail. If you're interested in anything I am doing please feel free to reach out at my listed email! I am currently a third year undergraduate student at Worcester Polytechnic Institute majororing in Physics and Mathematics. My primary interest is in astrophysics but also love talking anything applied math/physics! 
+Hello! I use this page primarily to post updates on the projects I am working on in greater detail. If you're interested in anything I am doing please feel free to reach out at my listed email! I am currently an undergraduate student at Worcester Polytechnic Institute double majoring in Physics and Mathematics. My primary interest is in astrophysics but I love talking anything applied math! 
 
 
 ## Education
