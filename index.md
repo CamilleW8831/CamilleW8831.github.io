@@ -8,6 +8,7 @@ layout: homepage
 
 ## Education
 Bachelor of Science in Physics-- Worcester Polytechnic Institute 
+
 Bachelor of Science in Mathematical Sciences
 
 ## Research & Projects
