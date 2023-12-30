@@ -25,7 +25,7 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 <details>
 <summary>Presentations</summary>
 - WPI Association for Women in Mathematics (AWM), Aug 27, 2023
-  *Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications*
+  * *Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications* *
 Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
 2023 WPI Undergraduate Research Showcase, Aug 3, 2023
 *Invited: Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
