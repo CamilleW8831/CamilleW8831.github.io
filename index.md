@@ -7,9 +7,9 @@ Test iteration
 
 
 ## Education
-Bachelor of Science in Physics-- Worcester Polytechnic Institute 
+Bachelor of Science in Physics-- Worcester Polytechnic Institute
 
-Bachelor of Science in Mathematical Sciences
+Bachelor of Science in Mathematical Sciences-- Worcester Polytechnic Institute
 
 ## Research & Projects
 ### Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications (Jan 2022-Present)
