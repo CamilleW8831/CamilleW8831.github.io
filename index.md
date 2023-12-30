@@ -22,7 +22,9 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 
 **Publications:**
 
-**Presentations:**
+<details>
+<summary>Presentations</summary>
+</details>
 
 <details>
 <summary>Associated images</summary>
