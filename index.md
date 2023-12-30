@@ -24,6 +24,23 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 
 <details>
 <summary>Presentations</summary>
+- WPI Association for Women in Mathematics (AWM), Aug 27, 2023
+  * * Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications * *
+Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
+2023 WPI Undergraduate Research Showcase, Aug 3, 2023
+*Invited: Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
+University of Colorado Boulder—Electrical Engineering Department, July 2, 2023
+Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
+International Microwave Power Institute’s (IMPI’s) 57th Annual Microwave Power Symposium, Jun 29, 2023
+Characterization of Microwave Plasma in Electromagnetic Modeling for Processing Applications
+SAIREM- Microwave Plasma Generation, Feb 15, 2023
+*Invited: Characterization of Microwave Plasma in Electromagnetic Modeling for Industrial Applications
+Massachusetts College of Liberal Arts (MCLA), Dec 6, 2022
+Machine-Learning Optimization of Microwave Plasma Parameters
+WPI STAR & DraftKings Lightning Talks, Sep 21, 2022
+Machine-Learning Optimization of Microwave Plasma Parameters
+WPI Research Experience for Undergraduates (REU) Showcase, Aug 4, 2022
+
 </details>
 
 <details>
