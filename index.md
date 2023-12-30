@@ -2,16 +2,16 @@
 layout: homepage
 ---
 
-## Page in progress: iteration 8
+## Page in progress: iteration 9
 
 ## About Me
 Hello! I use this page primarily to post updates on the projects I am working on in greater detail. If you're interested in anything I am doing please feel free to reach out at my listed email! I am currently an undergraduate student at Worcester Polytechnic Institute double majoring in Physics and Mathematics. My primary interest is in astrophysics but I love talking anything applied math! 
 
 
 ## Education
-Bachelor of Science in Physics-- Worcester Polytechnic Institute
+Bachelor of Science in Physics-- Worcester Polytechnic Institute (May 2025)
 
-Bachelor of Science in Mathematical Sciences-- Worcester Polytechnic Institute
+Bachelor of Science in Mathematical Sciences-- Worcester Polytechnic Institute (May 2025)
 
 ## Research & Projects
 ### Characterization of Microwave Plasma for Electromagnetic Modeling in Processing Applications (Jan 2022-Present)
