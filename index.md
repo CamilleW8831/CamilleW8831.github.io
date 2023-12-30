@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Test iteration 4
+Test iteration 5
 
 
 ## Education
@@ -28,13 +28,13 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
   
 - 2023 WPI Undergraduate Research Showcase, Aug 3, 2023
 
-- *Invited: University of Colorado Boulder—Electrical Engineering Department, July 2, 20234
+- **Invited: University of Colorado Boulder—Electrical Engineering Department, July 2, 20234**
   
 - International Microwave Power Institute’s (IMPI’s) 57th Annual Microwave Power Symposium, Jun 29, 2023
   
 - SAIREM- Microwave Plasma Generation, Feb 15, 2023
   
-- *Invited: Massachusetts College of Liberal Arts (MCLA), Dec 6, 2022
+- **Invited: Massachusetts College of Liberal Arts (MCLA), Dec 6, 2022**
   
 - WPI STAR & DraftKings Lightning Talks, Sep 21, 2022
   
