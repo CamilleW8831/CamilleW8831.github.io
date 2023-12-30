@@ -22,8 +22,7 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 
 **Publications:**
 
-<details>
-<summary>Presentations</summary>
+**Presentations:**
   
 - WPI Association for Women in Mathematics (AWM), Aug 27, 2023
   
@@ -40,9 +39,6 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 - WPI STAR & DraftKings Lightning Talks, Sep 21, 2022
   
 - WPI Research Experience for Undergraduates (REU) Showcase, Aug 4, 2022
-  
-</details>
-
 
 <details>
 <summary>Associated images</summary>
