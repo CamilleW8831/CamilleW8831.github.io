@@ -46,6 +46,12 @@ Microwave induced lab plasmas have demonstrated well-documented and signifigant 
 <summary>Associated images</summary>
 </details>
 
+### Boundary Element Fast Multipole Method (BEM-FMM) Modeling of the Brain
+
+### Humanity & Space: In-Space Propulsion and Orbital Maneuvers (Interactive Qualifying Project, IQP)
+
+### 
+
 
 ## Skills
 
